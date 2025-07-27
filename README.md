@@ -8,9 +8,10 @@
 
 ## 📌 About Me
 
-- 🎓 Bachelor of Mathematics — Top  of Boudouaou (2024)
-- 🔐 Interested in OS, Cybersecurity, Machine Learning
-- 🇩🇿 Based in Algeria | 💬 Speaks english, Arabic, French, German
+- 🎓 Bachelor of Mathematics — Top of Boudouaou (2024)
+- 🔐 Passionate about Cybersecurity, OS, and Machine Learning
+- 📚 Learning: Advanced C, Java OOP, and Ethical Hacking
+- 🇩🇿 Based in Algeria | 💬 Speaks English, Arabic, French, and German
 
 ---
 
@@ -26,20 +27,39 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Current Goals
 
-![Abderezak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTOUIL&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTOUIL&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrTOUIL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- 🚀 Build real cybersecurity tools using C and low-level programming  
+- 🎯 Master Java OOP for building secure backend applications  
+- 📖 Publish educational content and contribute to open-source
 
 ---
 
-## 📬 Let's Connect
+## 🧩 Fun Facts & Personal Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/touil-abderezak-34b95732b)
+- 🧠 Took part in the national round of the International Math Olympiad 🇩🇿
+- 👨‍🏫 Passionate about teaching & simplifying complex topics
+- 🧑‍💻 Works on **abstract machines**, data structures & low-level code
+- 🐧 Daily Linux user — I break it and fix it just for fun
+- 🔭 Dream: Become a cybersecurity expert and university professor
+
+---
+
+## 💡 Featured Project
+
+### 🔐 Sudoku Solver in Pascal & C  
+A complete solver for 9x9 Sudoku grids using backtracking, written in Pascal and C.  
+
+
+---
+
+## ☕ Support & Connect
+
+If you like my work, feel free to connect or support me ❤️
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/touil-abderezak-34b95732b)  
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oa_touil@esi.dz)
+
+---
+
+> *“Passionate about cybersecurity and education — Building tools to learn and teach.”*
